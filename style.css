@@ -1,5 +1,13 @@
-section {
+.main {
   background-color: tan;
+}
+
+.sub {
+  background-color: lightgrey;
+  width: 300px;
+  border: 3px solid forestgreen;
+  padding: 50px;
+  margin: 20px;
 }
 img {
   max-width: 50%;
